@@ -1,2 +1,2 @@
-let name = process.argv.slice(2);
-console.log("Hello " + name);
+console.log("Hello " + process.argv[2]);
+

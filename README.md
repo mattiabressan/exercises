@@ -1,1 +1,22 @@
 # exercises
+
+- Make a script which print "Hello World"
+- Make a script which print "Hello ${name}" where name is an argument of the script.
+- Make a script which takes *n* arguments and convert it to a concatenated string:
+- Given this array `const numbers = [19, 22, 19, 24, 20, 25, 26, 24, 25, 24]`
+  - Make a script which find the *min*, *max* and the avg.
+  - Make a script which loop the array and prints one element per line.
+    - Make this using for loop
+    - Make this using for ... in loop
+    - Make this using forEach loop
+  - Make a script which returns an array with every element = element + 1.
+    - Make this using for loop
+    - Make this using for ... in loop
+    - Make this using forEach loop
+    - Make this using map
+  - Make a script which sum all the elements.
+    - Make this using for loop
+    - Make this using for ... in loop
+    - Make this using forEach loop
+    - Make this using reduce
+  - Make a script which return an array with only even number.
