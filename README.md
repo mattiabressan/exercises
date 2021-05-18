@@ -20,3 +20,4 @@
     - Make this using forEach loop
     - Make this using reduce
   - Make a script which return an array with only even number.
+- Make a script that given a *n* number of elements return an array of its prime numbers
