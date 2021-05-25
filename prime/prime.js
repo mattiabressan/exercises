@@ -17,4 +17,4 @@ function display(n) {
     console.log(arr.join(' '));
 }
 
-display(10)
+display(1000)

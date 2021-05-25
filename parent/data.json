@@ -1,0 +1,34 @@
+{
+    "elements": [
+        {
+            "id": "1",
+            "label": "ciao",
+            "parent_id": "null"
+        },
+        {
+            "id": "2",
+            "label": "pippo",
+            "parent_id": "1"
+        },
+        {
+            "id": "3",
+            "label": "pluto",
+            "parent_id": "2"
+        },
+        {
+            "id": "4",
+            "label": "paperino",
+            "parent_id": "1"
+        },
+        {
+            "id": "5",
+            "label": "topolino",
+            "parent_id": "2"
+        },
+        {
+            "id": "6",
+            "label": "eta beta",
+            "parent_id": "3"
+        }
+    ]
+}
